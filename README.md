@@ -51,7 +51,9 @@ php artisan advancetrust:create-controller
 php artisan advancetrust:create-view
 php artisan advancetrust:version
 ```
+If you want to customize from default UI you can made in on your blade.
 
+### Patch's are welcome
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
